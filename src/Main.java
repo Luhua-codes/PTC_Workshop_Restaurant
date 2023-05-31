@@ -73,8 +73,9 @@ public class Main {
 
         /*improvements if there's time
         - Change menu items and prices to an array
-        - Senior / child discounts
         - Let user enter a custom tip %
+        - Order more than 1 item -> do while loop, array of order numbers, loop bill calculation
+        - Senior / child discounts
         */
     }
 }
